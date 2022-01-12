@@ -10,10 +10,6 @@
 
 Feel free to check out any of my repositories!
 
-### 🖥️ My Activity 🖥️
-
-![Devam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dodesimo&show_icons=true&theme=dark)
-
 <!--
 **Dodesimo/Dodesimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
