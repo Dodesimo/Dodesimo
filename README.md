@@ -1,4 +1,4 @@
-### 🖥️ Hi! 🖥️
+### Hi! 🖥
 
 😀 My name is **Devam Mondal**, and I'm a high school sophomore at Edison High School.
 
