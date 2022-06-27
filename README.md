@@ -1,26 +1,9 @@
-### Hi! 🖥
+### What's poppin'?
 
-😀 My name is **Devam Mondal**, and I'm a high school sophomore at Edison High School.
+My name is Devam Mondal, and I'm a junior at Edison High.
+I'm the head programmer of FTC Team 18671 (Faraday).
+I'm experienced in Java and Python.
+Some of my key projects include:
+*Handwriting Recog: A neural network that can process human handwriting.
+*GetItDone: An intuitive to-do list that makes organization easy.
 
-🏫 I attend the STEM Academy, and love engineering solutions to large-scale problems.
-
-🤖 I am currently the head programmer of **Team Faraday**, the Edison High School FTC team, working with Java. 
-
-📈 📱 I am also interested in data science and mobile development.
-
-Feel free to check out any of my repositories!
-
-<!--
-**Dodesimo/Dodesimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
