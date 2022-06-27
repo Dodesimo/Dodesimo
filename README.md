@@ -10,3 +10,5 @@ Some of my key projects include:
 * GetItDone: An intuitive to-do list built using React-Native that makes organization easy.
 
 I have a bunch of other projects, so check out my Github!
+
+![Devams's GitHub stats](https://github-readme-stats.vercel.app/api?username=dodesimo&show_icons=true&theme=radical)
