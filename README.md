@@ -1,8 +1,9 @@
 ### Hi!
 
-I'm Devam, and I'm interested in natural language processing, machine learning, and robotics. 
+I'm Devam, and I'm interested in natural language processing, machine learning, and data science. 
 
-Currently, I'm the captain and head programmer for FTC Team 18671, as well as a CS + Linguistics intern at Stevens Institute of Technology's Center for Complex Systems and Enterprises, working with Professor Carlo Lipizzi. I was also a Machine Learning and Data Science intern at whiz.ai 2023 summer, and will be an incoming R&D intern this November, and a ML engineer this coming Summer. 
+Currently, I am ...
+* working under Professor Carlo Lipizzi at the Center for Complex Systems and Enterprises @ Stevens Institute of Technology on methods to debias large-langauge models and quantify bias (paper coming soon).
+* working as a natural language processing intern @ whiz.ai, focused on generating insights through large-language models using data intelligence objects.
 
-Feel free to reach out to me: devammondal06@gmail.com
-
+Feel free to reach out to me at devammondal06@gmail.com. 
