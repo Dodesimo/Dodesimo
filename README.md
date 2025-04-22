@@ -1,5 +1,5 @@
 ### Hi!
 
-I'm Devam, and I'm interested in natural language processing, machine learning, and data science. I'm a CS major at Georgia Tech. 
+I'm Devam, and I love building. Current working on Toffee (https://www.jointoffee.live/) and will intern @ Cisco Summer 2025. Worked at InPharmD (YC W21) as an AI Engineer. 
 
-Feel free to reach out to me at devammondal123@gmail.com. 
+Connect with me: devammondal123@gmail.com, linkedin.com/dmmo
